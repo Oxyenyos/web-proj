@@ -3,7 +3,7 @@ title: "Paperfaces digital drawing giveaway"
 date: 2014-08-24
 path: /notes/paperfaces-giveaway/
 last_modified_at: 2019-02-16T10:52:43-05:00
-excerpt: "Enter to win a portrait of your choice drawn by Michael Rose in his signature PaperFaces style."
+excerpt: "Enter to win a portrait of your choice drawn by Alok Prateek in his signature PaperFaces style."
 categories: [notes]
 tags: [illustration, Paper for iOS]
 image: ../../images/paperfaces-contest.jpg

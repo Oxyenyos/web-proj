@@ -14,7 +14,7 @@ Looks like I might actually get an **iPhone 4** on launch day. Took AT&T all day
 
 > Tue, Jun 15, 2010 at 6:49 AM
 >
-> Dear Michael Rose,
+> Dear Alok Prateek,
 >
 > Thank you for placing your order with AT&T.
 >

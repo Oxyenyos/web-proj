@@ -11,7 +11,7 @@ comments: true
 toc: true
 ---
 
-PaperFaces was an iPad drawing project by time traveling designer and illustrator Michael Rose --- that's me! It began in August 2012, when I started drawing portraits on my iPad using the [Paper by FiftyThree app](http://www.fiftythree.com/paper) and [ended exactly two years later](/articles/paperfaces-retrospective/). 
+PaperFaces was an iPad drawing project by time traveling designer and illustrator Alok Prateek --- that's me! It began in August 2012, when I started drawing portraits on my iPad using the [Paper by FiftyThree app](http://www.fiftythree.com/paper) and [ended exactly two years later](/articles/paperfaces-retrospective/). 
 
 The lastest batch of [PaperFaces drawings](/paperfaces/) along with in process sketches for each can be found at `/paperfaces`.
 

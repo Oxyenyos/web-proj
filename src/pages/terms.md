@@ -3,11 +3,11 @@ title: "Terms and policies"
 path: /terms/
 date: 2016-08-26
 last_modified_at: 2019-11-06T14:09:32-05:00
-excerpt: "Made Mistakes privacy policy, license, and other legal stuff you won't read."
+excerpt: "Metoric Teachings privacy policy, license, and other legal stuff you won't read."
 toc: true
 ---
 
-This is my personal website written and edited by me (Michael Rose). Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
+This is my personal website written and edited by me (Alok Prateek). Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
 
 All content provided is for informational purposes only. The articles and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
 
@@ -19,7 +19,7 @@ I will never share your email address or any other personal information to anyon
 
 ### Log files
 
-Like many other websites, MadeMistakes.com uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Like many other websites, alokprateek.in uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
 - Internet Protocol addresses (IP)
 - Types of browser
@@ -32,7 +32,7 @@ All of this information is not linked to anything that is personally identifiabl
 
 ### Cookies and web beacons
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. MadeMistakes.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. alokprateek.in has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
 If you wish to [disable cookies](https://cookies.insites.com/disable-cookies/), you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
@@ -67,8 +67,8 @@ Like this website, my disclosure policy is a work in progress. As the revenue st
 
 ## License
 
-All original content (e.g. articles, blog posts, illustrations, artwork, and photographs) available on MadeMistakes.com is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work as long as you don't use it for commercial purposes without my prior written consent.
+All original content (e.g. articles, blog posts, illustrations, artwork, and photographs) available on alokprateek.in is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work as long as you don't use it for commercial purposes without my prior written consent.
 
 ### Attribution
 
-If you're inclined to give credit --- a link back to the source article attributed to either [Made Mistakes](https://mademistakes.com) or [Michael Rose](https://mademistakes.com) is good enough for me. If you don't want to attribute my content, hey that's cool too. Just don't go stealing stuff and republishing it as your own.
+If you're inclined to give credit --- a link back to the source article attributed to either [Metoric Teachings](https://alokprateek.in) or [Alok Prateek](https://alokprateek.in) is good enough for me. If you don't want to attribute my content, hey that's cool too. Just don't go stealing stuff and republishing it as your own.

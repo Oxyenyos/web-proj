@@ -30,7 +30,7 @@ const HomePage = ({ data }) => {
         <div className={style.title}>
           <h1 className={style.heading}>
             <span>
-              Made Mistakes is the personal site of{' '}
+              Metoric Teachings is the personal site of{' '}
               <a href="/about/">Michael&nbsp;Rose</a>.
             </span>
           </h1>

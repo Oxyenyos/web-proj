@@ -1,7 +1,7 @@
 ---
 title: "Sitemap"
 path: /sitemap/
-excerpt: "An index of all the pages found on mademistakes.com"
+excerpt: "An index of all the pages found on alokprateek.in"
 date: 2016-08-26
 last_modified_at: 2019-02-15
 ---

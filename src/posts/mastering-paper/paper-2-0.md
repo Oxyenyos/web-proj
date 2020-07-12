@@ -20,7 +20,7 @@ If you've experienced any of these know that you're not alone and hopefully a fi
 
 ## Using a stylus to Blend is unreliable
 
-I've always used Paper's Blend feature as designed: draw with Pencil and smudge with one of my fingers. Because I'm a finger blender I learned about this next bit from [Edwin over on Tumblr](https://mademistakes.tumblr.com/post/98571965783/paper-200-193). For those of you who prefer using a capacitive stylus like [Wacom's Bamboo](https://amzn.to/2ZXG3AX) to smudge, you may need to change your work-flow after updating Paper to version 2.0.0...
+I've always used Paper's Blend feature as designed: draw with Pencil and smudge with one of my fingers. Because I'm a finger blender I learned about this next bit. For those of you who prefer using a capacitive stylus like [Wacom's Bamboo](https://amzn.to/2ZXG3AX) to smudge, you may need to change your work-flow after updating Paper to version 2.0.0...
 
 In my tests this appears to be limited to styli with smaller nibs. In **Paper 2.0.0 (193)**, smudging with these sorts of nibs no longer works... well not 100% of the time. If you press hard enough to "squish" the tip it might register as a touch and smudge but at the cost of wearing out faster.
 

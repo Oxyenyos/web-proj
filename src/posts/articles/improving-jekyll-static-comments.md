@@ -380,7 +380,7 @@ To ensure that links in notification emails are safe and only come from trusted 
 **Example:**
 
 ```yaml
-allowedOrigins: ["mademistakes.com"]
+allowedOrigins: ["alokprateek.in"]
 ```
 
 The domain(s) allowed here must match those passed from an `options.origin` field we're going to add in the next step. Only domains that match will trigger notifications to send, otherwise the operation will abort.

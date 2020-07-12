@@ -51,9 +51,9 @@ It boggles my mind that a repository that started out as a stripped down theme o
 I've had a love/hate relationship with beard growing for as long as I can remember. For whatever stupid reason I decided I wanted to grow a yeard in 2018... during the middle of the summer.
 
 <figure class="three-column">
-  <img src="../../images/michael-rose-beard-3mos.jpg" alt="Michael Rose beard portrait at 3 months">
-  <img src="../../images/michael-rose-beard-6mos.jpg" alt="Michael Rose beard portrait at 6 months">
-  <img src="../../images/michael-rose-beard-12mos.jpg" alt="Michael Rose beard portrait at 1 year">
+  <img src="../../images/michael-rose-beard-3mos.jpg" alt="Alok Prateek beard portrait at 3 months">
+  <img src="../../images/michael-rose-beard-6mos.jpg" alt="Alok Prateek beard portrait at 6 months">
+  <img src="../../images/michael-rose-beard-12mos.jpg" alt="Alok Prateek beard portrait at 1 year">
   <figcaption><p>Beard progression at 3 months, 6 months, and 12 months.</p></figcaption>
 </figure>
 

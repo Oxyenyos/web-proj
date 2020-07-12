@@ -6,7 +6,7 @@ last_modified_at: 2019-12-31T19:24:48-05:00
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
 ---
 
-Have a question for me? My direct messages are open [on Twitter](https://twitter.com/mmistakes) for short and succinct messages.
+Have a question for me? My direct messages are open [on Twitter](https://twitter.com/thewhitewulfy) for short and succinct messages.
 
 Before sending, please read my [frequently asked questions section](/faqs/) first to make sure I haven't already answered it. For anything else use the form below.
 

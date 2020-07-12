@@ -1,8 +1,8 @@
 ---
-title: "PaperFaces self portrait of Michael Rose"
+title: "PaperFaces self portrait of Alok Prateek"
 date: 2013-05-29
 path: /paperfaces/michael-rose-beard-portrait/
-excerpt: "PaperFaces portrait of a bearded Michael Rose drawn with Paper for iOS on an iPad."
+excerpt: "PaperFaces portrait of a bearded Alok Prateek drawn with Paper for iOS on an iPad."
 image: ../../images/paperfaces-michael-rose-beard.jpg
 last_modified_at: 2013-06-05
 categories: [paperfaces]

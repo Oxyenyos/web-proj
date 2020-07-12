@@ -761,7 +761,7 @@ With Liquid I'm taking a `page.url` and then grabbing the first bit of text befo
 
 By using a `slugs.yml` data file as a definition list I can replace these "simple slugs" with whatever I want. 
 
-Let's use the "[What tools do you use to build your website?](/faqs/website-tools/)" FAQ page from my site as an example. If I were to output breadcrumbs for this page, I'd filter the `page.url` of `https://mademistakes.com/faqs/website-tools/` down to `faqs` and end up with the following breadcrumbs: `Home > faqs`
+Let's use the "[What tools do you use to build your website?](/faqs/website-tools/)" FAQ page from my site as an example. If I were to output breadcrumbs for this page, I'd filter the `page.url` of `https://alokprateek.in/faqs/website-tools/` down to `faqs` and end up with the following breadcrumbs: `Home > faqs`
 
 Which isn't the worst thing in the world, but ideally **faqs** would be properly capitalized (eg. FAQs) or spelled out as "**Frequently Asked Questions**."
 

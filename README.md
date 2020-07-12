@@ -1,26 +1,26 @@
-# [Made Mistakes](https://mademistakes.com) Source Code
+# [Metoric Teachings](https://alokprateek.in) Source Code
 
-This is the source code of Made Mistakes, a personal blog and portfolio built 
+This is the source code of Metoric Teachings, a personal blog and portfolio built
 with [Gatsby](https://www.gatsbyjs.org/), [Travis CI](https://travis-ci.org/),  and [Netlify](https://www.netlify.com/).
 
 ## Getting started
 
 1. **Install dependencies**
-   
+  
    ```shell
    yarn install
    ```
 
 2. **Add `.env` file to the root with your GitHub API token.**
 
-   ```
+   ```env
    GITHUB_API_TOKEN=yourPersonalGitHubApiToken
    ```
 
    **Note:** do not commit this file. Builds will fail with a `TypeError: Cannot read property 'match' of undefined` since GitHub repo listing on `/pages/works.js` can't resolve the GraphQL query.
 
 3. **Start developing.**
-   
+  
    ```shell
    gatsby develop
    ```
@@ -31,7 +31,7 @@ with [Gatsby](https://www.gatsbyjs.org/), [Travis CI](https://travis-ci.org/),  
 
    ```bash
    .
-   ├── config                      
+   ├── config
    |   └──site.js             # => site wide config
    ├── src
    |   ├── comments           # => comments content
@@ -200,7 +200,7 @@ Style links to look like a button.
 
 The MIT License (MIT)
 
-Copyright (c) 2004-2020 Michael Rose
+Copyright (c) 2004-2020 Alok Prateek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -220,4 +220,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Made Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
+Metoric Teachings incorporates photographs from [Unsplash](https://unsplash.com).

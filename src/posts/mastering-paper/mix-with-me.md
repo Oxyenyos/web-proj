@@ -34,6 +34,6 @@ If you're one of the lucky Paper creators to get an invite to Mix (or soon will 
 
 [![The twins illustrated](../../images/paper-53-mix-twins.jpg)](https://mix.fiftythree.com/11098-Michael-Rose/42074)
 
-Easiest way to follow me is by [visiting my Mix profile](https://mix.fiftythree.com/11098-Michael-Rose) and clicking on the **i** icon. You can also try searching for me in Paper by swiping down while *in the Mix* and typing "Michael Rose."
+Easiest way to follow me is by [visiting my Mix profile](https://mix.fiftythree.com/11098-Michael-Rose) and clicking on the **i** icon. You can also try searching for me in Paper by swiping down while *in the Mix* and typing "Alok Prateek."
 
 [![Search Mix for Michael](../../images/paper-53-mix-search-michael.jpg)](https://mix.fiftythree.com/11098-Michael-Rose)

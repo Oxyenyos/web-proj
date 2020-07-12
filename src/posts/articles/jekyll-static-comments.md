@@ -392,7 +392,7 @@ I was able to determine what Disqus was expecting for id's and adjust the plugin
 
 1. [Exporting all my Disqus comments](https://disqus.com/admin/discussions/export/) as XML.
 2. Opening the Disqus XML file.
-3. Looking at the `<link>` elements eg. `<link>https://mademistakes.com/mastering-paper/contour-drawing/</link>`
+3. Looking at the `<link>` elements eg. `<link>https://alokprateek.in/mastering-paper/contour-drawing/</link>`
 
 By playing around with the [following line](https://github.com/mmistakes/jekyll-disqus-comments/blob/e2561412785af8cdc7579fa6a774eaccb020ea98/_rake/disqus_comments.rake#L50) in `disqus_comments.rake` I finally sorted it out:
 

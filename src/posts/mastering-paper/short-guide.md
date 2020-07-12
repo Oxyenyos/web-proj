@@ -88,7 +88,7 @@ It has so many uses, that by default I spend most of my time with it. My absolut
 
 I hope some of this has been helpful. To better describe and show my process, I've recorded speed paintings done with an iPad 3, Paper by FiftyThree, the Mac OS X application [**Reflector**](https://www.airsquirrels.com/reflector), and edited with Adobe AfterEffects. 
 
-I've taken the liberty of embedding a video playlist below, demonstrating how I use Paper by FiftyThree to paint portraits. *(ProTip: watch it fullscreen)*. Feel free to comment, like, or [subscribe to my channel](https://www.youtube.com/user/anotherjpeg "Subscribe to Michael Rose's YouTube Channel") if you like what you see.
+I've taken the liberty of embedding a video playlist below, demonstrating how I use Paper by FiftyThree to paint portraits. *(ProTip: watch it fullscreen)*. Feel free to comment, like, or [subscribe to my channel](https://www.youtube.com/user/anotherjpeg "Subscribe to Alok Prateek's YouTube Channel") if you like what you see.
 
 If I missed anything or you're looking for more pointers leave a comment below or [tweet me](https://twitter.com/mmistakes).
 

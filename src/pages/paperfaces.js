@@ -84,7 +84,7 @@ class Gallery extends React.Component {
           )}
           <div className={style.content}>
             <p>
-              PaperFaces was an illustration project by designer Michael Rose —
+              PaperFaces was an illustration project by designer Alok Prateek —
               hey that’s me! For two years I drew the faces of strangers
               everyday using an iPad, a stylus, and{' '}
               <strong>Paper for iOS</strong>. I occasionally post new portraits

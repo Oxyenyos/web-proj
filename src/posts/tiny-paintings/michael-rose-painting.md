@@ -2,7 +2,7 @@
 title: "Cut My Face in Half"
 date: 2015-10-16
 path: /tiny-paintings/michael-rose-painting/
-excerpt: "Tiny portrait of Michael Rose painted with watercolor on hot press paper."
+excerpt: "Tiny portrait of Alok Prateek painted with watercolor on hot press paper."
 last_modified_at: 2019-12-31T15:53:50-05:00
 image: ../../images/painting-michael-rose.jpg
 thumbnail: ../../images/painting-michael-rose-crop.jpg
