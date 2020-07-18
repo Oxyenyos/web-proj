@@ -38,7 +38,7 @@ module.exports = {
     feedUrl: site.feedUrl,
 
     // Site config
-    copyrights: `&copy; 2010&mdash;${new Date().getFullYear()} <a href="https://alokprateek.in/humans.txt">Alok Prateek</a>. Some Rights Reserved.<br />Built in Buffalo, New York. (<a href="https://github.com/thewhitewulfy/made-mistakes-gatsby" rel="nofollow">view source</a>)`,
+    copyrights: `&copy; 2010&mdash;${new Date().getFullYear()} <a href="https://alokprateek.in/humans.txt">Alok Prateek</a>. Some Rights Reserved.<br />Built with crafty intentions in Delhi, India.`,
     defaultTheme: 'light',
     postsPerPage: 10,
     mainMenu: [
@@ -87,14 +87,6 @@ module.exports = {
     'gatsby-plugin-preact',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
-    {
-      resolve: `gatsby-source-github-api`,
-      options: {
-        token: process.env.GITHUB_API_TOKEN,
-        graphQLQuery: site.githubApiQuery,
-        variables: site.githubApiVariables,
-      },
-    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {

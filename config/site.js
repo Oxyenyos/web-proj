@@ -7,9 +7,9 @@ module.exports = {
   siteLanguage: 'en', // Language Tag on <html> element
   image: {
     // Used for SEO, relative to /static/ folder
-    src: '/images/made-mistakes-logo.png',
-    width: 384,
-    height: 384,
+    src: '/images/alok-logo.png',
+    width: 512,
+    height: 512,
   },
   ogLanguage: 'en_US', // Facebook Language
   pingbackUrl: 'https://webmention.io/alokprateek.in/xmlrpc',
@@ -21,7 +21,7 @@ module.exports = {
     'https://mm-staticman.herokuapp.com/v2/entry/thewhitewulfy/made-mistakes-gatsby/master/comments',
 
   // JSONLD / Manifest
-  favicon: '/images/made-mistakes-logo.png', // Used for manifest favicon generation
+  favicon: '/images/alok-logo.png', // Used for manifest favicon generation
   shortName: 'Metoric Teachings', // shortname for manifest. MUST be shorter than 12 characters
   author: {
     // Author for schema.org JSONLD
@@ -37,8 +37,8 @@ module.exports = {
   githubUrl: 'https://github.com/thewhitewulfy',
   instagramUrl: 'https://www.instagram.com/thewhitewulfy/',
   feedUrl: '/atom.xml',
-  /* githubApiToken: '672558f3d5f569c41ee7b7e07791df5f41823866', //process.env.GITHUB_API_TOKEN,
-  githubApiQuery: `query ($number_of_repos: Int!) {
+  githubApiToken: '672558f3d5f569c41ee7b7e07791df5f41823866', //process.env.GITHUB_API_TOKEN,
+  /* githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
       name
       avatarUrl
