@@ -74,7 +74,7 @@
   excerpt:
   html:
 
-- id: mastering-paper
+- id: bibliophile-diaries
   name: Mastering Paper for iOS
   excerpt: Collection of tutorials written by an avid iPad illustrator to help you master Paper for iOS.
   html: |
@@ -110,7 +110,7 @@
 - id: Paper for iOS
   excerpt: A collection of art created on iPad with the iOS app Paper by WeTransfer. Tutorials and other learnings related to my Mastering Paper series are also included.
   html: |
-    <p>A collection of art created on iPad with the iOS app <strong>Paper by WeTransfer</strong>. Tutorials and other learnings related to my <a href="/mastering-paper">Mastering Paper</a> series are also included.</p>
+    <p>A collection of art created on iPad with the iOS app <strong>Paper by WeTransfer</strong>. Tutorials and other learnings related to my <a href="/bibliophile-diaries">Mastering Paper</a> series are also included.</p>
 
 - id: Pencil by 53
   excerpt:

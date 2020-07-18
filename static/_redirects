@@ -71,7 +71,7 @@ http://next-mademistakes.netlify.app/* https://alokprateek.in/:splat 301!
 /code-highlighting-post/ /work/jekyll-themes/ 301
 /drawing-textures /mastering-paper/drawing-textures/ 301
 /hpstr /work/hpstr-jekyll-theme/ 301
-/mastering-paper/basic /mastering-paper/basics/ 301
+/mastering-paper/basic /bibliophile-diaries/basics/ 301
 /minimal-mistakes /work/minimal-mistakes-jekyll-theme/ 301
 /notes/soldout-iphone-4/ /notes/sold-out-iphone-4/ 301
 /paperfaces/lorenzo-raffio-portrait /paperfaces/lorenzo-portrait/ 301
@@ -107,6 +107,6 @@ http://next-mademistakes.netlify.app/* https://alokprateek.in/:splat 301!
 /feed.xml /atom.xml 301
 /everything.xml /atom.xml 301
 /articles-feed.xml /articles.xml 301
-/mastering-paper-feed.xml /mastering-paper.xml 301
+/bibliophile-diaries-feed.xml /bibliophile-diaries.xml 301
 /paperfaces-feed.xml /paperfaces.xml 301
 /til.xml /notes.xml 301
