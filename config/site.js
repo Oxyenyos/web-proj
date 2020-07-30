@@ -34,6 +34,7 @@ module.exports = {
   twitter: '@thewhitewulfy', // Twitter username
   twitterUrl: 'https://twitter.com/thewhitewulfy',
   facebook: 'Metoric Teachings', // Facebook site name
+  linkedinUrl: 'https://www.linkedin.com/in/alokprateek/',
   githubUrl: 'https://github.com/thewhitewulfy',
   instagramUrl: 'https://www.instagram.com/thewhitewulfy/',
   feedUrl: '/atom.xml',

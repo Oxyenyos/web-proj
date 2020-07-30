@@ -34,6 +34,7 @@ module.exports = {
     twitterUrl: site.twitterUrl,
     facebook: site.facebook,
     githubUrl: site.githubUrl,
+    linkedinUrl: site.linkedinUrl,
     instagramUrl: site.instagramUrl,
     feedUrl: site.feedUrl,
 
