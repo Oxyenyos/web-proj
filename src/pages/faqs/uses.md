@@ -2,8 +2,9 @@
 title: "What tech do you use?"
 excerpt: "A list detailing my developer setup, gear, software, and preferred configurations."
 path: /uses/
-date: 2016-08-26
-last_modified_at: 2020-01-13T09:56:34-05:00
+date: 2020-08-01
+order: 1
+last_modified_at: 2020-08-01T09:56:34-05:00
 ---
 
 Read on friend to learn about the hardware and software I use for play and to build Metoric Teachings. None of it is terribly exciting or unexpected, but hey --- maybe the curious of you will find it interesting.
