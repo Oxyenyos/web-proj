@@ -1,3 +1,0 @@
-[submodule "src/images"]
-	path = src/images
-	url = https://github.com/mmistakes/images.git
