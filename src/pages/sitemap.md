@@ -21,6 +21,6 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
 
 ## [Notes](/notes/)
 
-## [Mastering Paper for iOS](/bibliophile-diaries/)
+## [Bibliophile Diaries](/bibliophile-diaries/)
 
 ## [Portfolio work](/work/)
