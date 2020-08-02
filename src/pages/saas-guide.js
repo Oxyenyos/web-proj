@@ -63,15 +63,15 @@ class Gallery extends React.Component {
     return (
       <Layout>
         <SEO
-          title={`Tiny paintings - ${site.title}`}
-          path="/tiny-paintings/"
-          description="Gallery of mini watercolor portraits painted at really small sizes."
+          title={`SaaS Guide - ${site.title}`}
+          path="/saas-guide/"
+          description="Getting started with building your own software as a service platform."
           metaImage={metaImage}
         />
         <main id="main" className={style.document}>
           <div className={style.title}>
             <h1 className={style.heading}>
-              <span>Tiny paintings</span>
+              <span>SaaS Guide</span>
             </h1>
           </div>
           {this.props.data.file.childImageSharp.fluid && (
@@ -83,15 +83,14 @@ class Gallery extends React.Component {
           )}
           <div className={style.content}>
             <p>
-              Trying to emulate the look and feel of{' '}
-              <a href="/paperfaces/">watercolor on the iPad</a> has inspired me
-              to revisit painting traditionally. I’ve gone mini in an effort to
-              fit some painting in amongst family and work obligations.
+              For the past one year I've been accumulating my knowledge in the
+              field of Software-as-a-Service and got several leads. This is my
+              attempt to put that knowledge into one single place and organize
+              facts, information, my thoughts, and opinions at one single place.
             </p>
             <p>
-              My plan was to complete a miniature 1.5&#x2033; painting a day,
-              but the challenge of painting so small is eating up way too much
-              time. Instead I’m going to keep things casual and let images
+              My plan was to complete a post a day, but the challenge is eating
+              up way too much time. Instead I’m going to keep things as they are
               happen as they happen.
             </p>
           </div>
@@ -142,13 +141,13 @@ Gallery.propTypes = {
 }
 
 export const pageQuery = graphql`
-  query TinyPaintingsQuery {
+  query SaasGuideQuery {
     site {
       siteMetadata {
         title
       }
     }
-    file(relativePath: { eq: "tiny-paintings.jpg" }) {
+    file(relativePath: { eq: "saas-guide.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1100, quality: 75) {
           ...GatsbyImageSharpFluid_noBase64
@@ -162,7 +161,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { categories: { in: "tiny-paintings" } } }
+      filter: { frontmatter: { categories: { in: "saas-guide" } } }
     ) {
       edges {
         node {
