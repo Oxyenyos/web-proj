@@ -43,7 +43,7 @@ It wasn't until I discovered Eduardo Bouças's blog post "[*Rethinking the Comme
 
 ### Enter Staticman
 
-On paper and in practice Staticman was just the app I was looking for to power static-based commenting on my site.
+in practice Staticman was just the app I was looking for to power static-based commenting on my site.
 
 - Designed to work with [**Jekyll**](http://jekyllrb.com/) and [**GitHub Pages**](https://pages.github.com/).
 - Free and open source. Run it on your own server as a Node.js app or go the free hosted route.
@@ -127,13 +127,11 @@ $(form).addClass('disabled');
 $('#comment-form-submit').html('<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Loading...');
 ```
 
-![Submit button loading animation](../../images/mm-submit-comment-loading.gif)
 
 If the form is successfully submitted a message appears notifying the user that the comment has been received and is pending moderation. Since my site takes a bit to generate with Jekyll I felt it necessary to convey this to the user, hopefully avoiding duplicate submissions. 
 
 With smaller sites hosted with GitHub Pages this becomes less of a problem, as they build much faster. Especially true if you decide to go with the auto merge option and skip [moderating comments](https://github.com/eduardoboucas/staticman#moderation-required).
 
-![Form submit success animation](../../images/mm-submit-comment-success.gif)
 
 ### Displaying comments
 
@@ -392,7 +390,7 @@ I was able to determine what Disqus was expecting for id's and adjust the plugin
 
 1. [Exporting all my Disqus comments](https://disqus.com/admin/discussions/export/) as XML.
 2. Opening the Disqus XML file.
-3. Looking at the `<link>` elements eg. `<link>https://alokprateek.in/mastering-paper/contour-drawing/</link>`
+3. Looking at the `<link>` elements eg. `<link>https://alokprateek.in/contour-drawing/</link>`
 
 By playing around with the [following line](https://github.com/mmistakes/jekyll-disqus-comments/blob/e2561412785af8cdc7579fa6a774eaccb020ea98/_rake/disqus_comments.rake#L50) in `disqus_comments.rake` I finally sorted it out:
 

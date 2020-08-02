@@ -131,7 +131,7 @@ According to [**Letterboxd**](https://letterboxd.com/mmistakes/) below are all t
 | **Don't Break Down: A Film About Jawbreaker** (2017) | ★★★★ | Probably need to enjoy their music to get something out of this. |
 | **Screwball** (2018) | ★★★ | Roids. |
 | **Ralph Breaks the Internet** (2018) | ★★★ | A few memes a lot of zzzZzzs. |
-| **Jack of all Trades** (2018) | ★★★ | Hard toilet paper. |
+| **Jack of all Trades** (2018) | ★★★ | Hard toilet. |
 | **Pokémon Detective Pikachu** (2019) | ★★ | I call bullshit. |
 | **Bob Lazar: Area 51 and Flying Saucers** (2018) | ★★ | Zzzzzz. |
 | **Being Frank: The Chris Sievey Story** (2018) | ★★★ | The true story behind that one Michael Fassbender flick. |
@@ -182,7 +182,7 @@ According to [**Letterboxd**](https://letterboxd.com/mmistakes/) below are all t
 
 The last couple of years I've been wanting to ditch FitBit devices for Apple Watch. My hestitation being battery life and needing to charge it daily. As someone who wore a Fitbit for 5 days straight without charging --- this was a deal breaker.
 
-When Apple released a Watch this fall with an always-on screen, I decided to try it out. On paper it does pretty much everything the Fitbits I've owned for years do. But some reason it's motivated me to be active in ways they couldn't.
+When Apple released a Watch this fall with an always-on screen, I decided to try it out. On papyrus it does pretty much everything the Fitbits I've owned for years do. But some reason it's motivated me to be active in ways they couldn't.
 
 <figure class="three-column">
   <img src="../../images/activity-app-01-2020.jpg" alt="Activity iOS app closed rings for December 2019 screenshot">

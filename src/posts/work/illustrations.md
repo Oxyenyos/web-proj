@@ -6,6 +6,6 @@ date: 2019-11-06
 last_modified_at: 2019-11-06T12:08:16-05:00
 image: ../../images/illu/illustrations-project-feature.jpg
 categories: [work]
-tags: [portrait, drawing, painting, vector, illustration]
+tags: [portrait, drawing, vector, illustration]
 output: false
 ---

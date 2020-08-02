@@ -365,7 +365,6 @@ onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.i
 
 A few minor variable name changes to Wordpress' `comment-reply.js` script was all it took to get everything working with my `form` markup.
 
-![Comment replies in action](../../images/comment-reply-animation.gif)
 
 Hitting a **reply button** moves the comment form into view and populates `<input type='hidden' id='comment-replying-to' name='fields[replying_to]' value=''>` with the correct *parent* `value`. While tapping **Cancel reply** returns the input to its original state of `null`.
 
