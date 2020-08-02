@@ -51,7 +51,9 @@ class Gallery extends React.Component {
       document.documentElement.offsetHeight -
       (window.pageYOffset + window.innerHeight)
     if (this.state.showingMore && distanceToBottom < 100) {
-      this.setState(prevState => ({ postsToShow: prevState.postsToShow + 20 }))
+      this.setState((prevState) => ({
+        postsToShow: prevState.postsToShow + 20,
+      }))
     }
     this.ticking = false
   }
@@ -63,16 +65,15 @@ class Gallery extends React.Component {
     return (
       <Layout>
         <SEO
-          title={`PaperFaces iPad project - ${site.title}`}
-          path="/paperfaces/"
-          description="PaperFaces portraits painted digitally with Paper for
-          iOS on an iPad. Find time lapse videos, in-process screenshots, and more."
+          title={`Vector Illustrations - ${site.title}`}
+          path="/illustrations/"
+          description="Vector Illustrations made on Adobe Illustrator."
           metaImage={metaImage}
         />
         <main id="main" className={style.document}>
           <div className={style.title}>
             <h1 className={style.heading}>
-              <span>PaperFaces iPad project</span>
+              <span>Vector Illustrations</span>
             </h1>
           </div>
           {this.props.data.file.childImageSharp.fluid && (
@@ -84,15 +85,15 @@ class Gallery extends React.Component {
           )}
           <div className={style.content}>
             <p>
-              PaperFaces was an illustration project by designer Alok Prateek —
-              hey that’s me! For two years I drew the faces of strangers
-              everyday using an iPad, a stylus, and{' '}
-              <strong>Paper for iOS</strong>. I occasionally post new portraits
-              here, but certainly not as frequently as I used to.
+              Vector Illustrations and graphics have become a staple essential
+              for the web as they engage, fascinate and connect audiences to
+              your brand. I have experience of designing all sorts of graphics
+              for the web as well as the print media. This collection gallery
+              can guide you in exploring my works.
             </p>
             <p>
-              If you scroll down far enough you can see how my technique evolved
-              from faceless gestures into realistic portraits.
+              If you scroll down far enough you can see how my technique has
+              evolved from 2008 to present date.
             </p>
           </div>
           <div className={style.gallery}>
@@ -142,13 +143,13 @@ Gallery.propTypes = {
 }
 
 export const pageQuery = graphql`
-  query PaperfacesQuery {
+  query IllustrationsQuery {
     site {
       siteMetadata {
         title
       }
     }
-    file(relativePath: { eq: "paperfaces-project-feature.jpg" }) {
+    file(relativePath: { eq: "illustrations-project-feature.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1100, quality: 75) {
           ...GatsbyImageSharpFluid_noBase64
@@ -162,7 +163,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { categories: { in: "paperfaces" } } }
+      filter: { frontmatter: { categories: { in: "illustrations" } } }
     ) {
       edges {
         node {
