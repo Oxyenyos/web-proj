@@ -2,12 +2,12 @@ module.exports = {
   // pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
   title: 'Metoric Teachings', // Navigation and site title
   titleAlt: 'Metoric Teachings', // Title for schema.org JSONLD
-  description: 'Personal website of designer Alok Prateek (@thewhitewulfy).',
+  description: 'Personal website of developer and designer Alok Prateek (@thewhitewulfy).',
   url: 'https://alokprateek.in', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   image: {
     // Used for SEO, relative to /static/ folder
-    src: '/images/alok-logo.png',
+    src: '/images/theme/alok-logo.png',
     width: 512,
     height: 512,
   },
@@ -21,7 +21,7 @@ module.exports = {
     'https://mm-staticman.herokuapp.com/v2/entry/thewhitewulfy/made-mistakes-gatsby/master/comments',
 
   // JSONLD / Manifest
-  favicon: '/images/alok-logo.png', // Used for manifest favicon generation
+  favicon: '/images/theme/alok-logo.png', // Used for manifest favicon generation
   shortName: 'Metoric Teachings', // shortname for manifest. MUST be shorter than 12 characters
   author: {
     // Author for schema.org JSONLD
