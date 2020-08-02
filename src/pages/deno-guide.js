@@ -63,17 +63,16 @@ class Gallery extends React.Component {
     return (
       <Layout>
         <SEO
-          title={`Procreate iPad paintings - ${site.title}`}
-          path="/procreate-paintings/"
-          description="Gallery of digital paintings created with Procreate on
-          an iPad. Find time lapse videos, in-process screenshots, and more."
+          title={`Guide to Deno - ${site.title}`}
+          path="/deno-guide/"
+          description="A guide to get started with Deno, the hard and dirty way."
           metaImage={metaImage}
         />
         <main id="main" className={style.document}>
           <div className={style.title}>
             <h1 className={style.heading}>
               <span>
-                <span>Procreate iPad paintings</span>
+                <span>Guide to Deno</span>
               </span>
             </h1>
           </div>
@@ -85,12 +84,8 @@ class Gallery extends React.Component {
             />
           )}
           <div className={style.content}>
-            <p>
-              Digital paintings created on an iPad using the iOS app{' '}
-              <a href="http://procreate.si/">
-                <strong>Procreate</strong> by Savage Interactive
-              </a>
-              .
+            <p>A guide to get started with 
+              <a href="http://deno.land/">Deno</a>, the hard and dirty way.
             </p>
           </div>
           <div className={style.gallery}>
@@ -140,13 +135,13 @@ Gallery.propTypes = {
 }
 
 export const pageQuery = graphql`
-  query ProcreatePaintingsQuery {
+  query DenoSeriesQuery {
     site {
       siteMetadata {
         title
       }
     }
-    file(relativePath: { eq: "procreate-paintings-feature.jpg" }) {
+    file(relativePath: { eq: "deno-guide-feature.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1100, quality: 75) {
           ...GatsbyImageSharpFluid_noBase64
@@ -160,7 +155,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { categories: { in: "procreate-paintings" } } }
+      filter: { frontmatter: { categories: { in: "deno-guide" } } }
     ) {
       edges {
         node {
