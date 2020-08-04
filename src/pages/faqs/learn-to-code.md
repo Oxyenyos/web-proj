@@ -1,7 +1,7 @@
 ---
 title: "How did you learn to code so early?"
 path: /faqs/learn-to-code/
-type: paper
+type: Development
 date: 2019-05-26
 last_modified_at: 2019-11-30T12:35:17-05:00
 order: 5
