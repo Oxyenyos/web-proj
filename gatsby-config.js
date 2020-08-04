@@ -422,6 +422,7 @@ module.exports = {
       options: {
         name: site.title,
         short_name: site.titleAlt,
+        description: site.description,
         start_url: '/',
         background_color: site.backgroundColor,
         theme_color: site.themeColor,
