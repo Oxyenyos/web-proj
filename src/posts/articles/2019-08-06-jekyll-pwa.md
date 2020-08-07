@@ -174,7 +174,6 @@ self.addEventListener("install", function (event) {
       if (offlineFallbackPage === "ToDo-replace-this-name.html") {
         return cache.add(new Response("Update the value of the offlineFallbackPage constant in the serviceworker."));
       }
-      
       return cache.add(offlineFallbackPage);
     })
   );
@@ -194,7 +193,7 @@ self.addEventListener("fetch", function (event) {
 
         return response;
       })
-      .catch(function (error) {        
+      .catch(function (error) {
         console.log("Network request Failed. Serving content from cache: " + error);
         return fromCache(event.request);
       })
@@ -247,7 +246,6 @@ If you want you can build your apps to be uploaded to Microsoft Store, Play Stor
 First you'll have to enter the url of your site and click enter. It will rate your PWA out of 100. If you followed this guide you'll get 95. Not bad. 😅
 
 You will see a bright purple button on top right, a page will come with instructions to download the apps and proceed further. If you need help, you can always drop a comment below.😀
-
 
 ##### Until next time!
 
