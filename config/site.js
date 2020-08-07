@@ -38,7 +38,7 @@ module.exports = {
   githubUrl: 'https://github.com/thewhitewulfy',
   instagramUrl: 'https://www.instagram.com/thewhitewulfy/',
   feedUrl: '/atom.xml',
-  githubApiToken: '672558f3d5f569c41ee7b7e07791df5f41823866', //process.env.GITHUB_API_TOKEN,
+  githubApiToken: '672558f3d5f569c41ee7b7e07791df5f41823866', // process.env.GITHUB_API_TOKEN,
   /* githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
       name
